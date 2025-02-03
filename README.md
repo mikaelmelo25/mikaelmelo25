@@ -8,7 +8,7 @@ My name is Mikael Melo, I am a third-year Bachelor of Computing Science student 
         <img 
             alt="youtube subscribers" 
             title="Subscribe on my chanel" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/mikaelmelo17=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/mikaelmelo25=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="UCBKWcaGht82rU551ioA5lIg">
