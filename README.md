@@ -116,5 +116,5 @@ My name is Mikael Melo, I am a third-year Bachelor of Computing Science student 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=mikaelmelo25&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
