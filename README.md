@@ -7,14 +7,7 @@ My name is Mikael Melo, I am a third-year Bachelor of Computing Science student 
 ---
 
 ### 🤖 Technologies and languages
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="HTML"
@@ -78,6 +71,14 @@ My name is Mikael Melo, I am a third-year Bachelor of Computing Science student 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/> 
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
