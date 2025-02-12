@@ -1,6 +1,6 @@
 # || Mikael Melo __
 
-**`FullStack Developer`**
+**`Web Developer`**
 
 My name is Mikael Melo, I am a third-year Bachelor of Computing Science student at Dorset College Dublin passionate about leveraging technology to solve real-world problems. My academic journey has equipped me with a solid foundation in programming, algorithms, and software development, and I am continually enhancing my skills in areas such as machine learning, cybersecurity, game design, etc.].
 
