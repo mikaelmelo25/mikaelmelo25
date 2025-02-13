@@ -93,10 +93,11 @@ My name is Mikael Melo, I am a third-year Bachelor of Computing Science student 
 <en/>
 
 
+<p>
 ### 📊 Statistics
 
 
-<p>
+
   <img 
     align="left" 
     alt="GitHub Stats" 
