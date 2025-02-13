@@ -92,6 +92,7 @@ My name is Mikael Melo, I am a third-year Bachelor of Computing Science student 
 <en/>
 <en/>
 
+---
 
 ### 📊 Statistics
 
