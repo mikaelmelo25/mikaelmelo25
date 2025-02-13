@@ -89,8 +89,8 @@ My name is Mikael Melo, I am a third-year Bachelor of Computing Science student 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
 />
 
-<br/>
-<br/>
+<en/>
+<en/>
 
 ### 📊 Statistics
 
